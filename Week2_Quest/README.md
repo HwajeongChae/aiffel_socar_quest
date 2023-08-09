@@ -1,6 +1,6 @@
 # AIFFEL Socar Campus Code Peer Review Templete
 
-코더 : 채화정
+코더 : 채화정   
 리뷰어 : 
 
 ## PRT(PeerReviewTemplate)
